@@ -1,10 +1,9 @@
 <meta charset = "utf-8">
 <html>
-<h1> N1 - App das Calculadoras</h1>
+<h1> N2 - App das Calculadoras</h1>
 <h2> Informações do projeto</h2>
 <hr>
 <ul> 
-  <li> O repositório contém questões do 2° trabalho de POO do curso de Informática do IFCE, campus Fortaleza.</li>
   <li> Professor: <a href = "https://github.com/rogermsarmento"> Roger Moura</a>.</li>
   <li> Equipe: <a href = "https://github.com/DaviCaroco"> Davi Alves</a>, <a href = "https://github.com/programadoralx"> Samara Fernandes</a>, <a href = "https://github.com/juliadantasdev"> Júlia Dantas</a> e <a href = "https://github.com/gkb63"> Gleicy K. Batista</a>.</li>
   <li> 3° Período. </li>
